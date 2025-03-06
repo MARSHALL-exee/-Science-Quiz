@@ -1,4 +1,5 @@
 Science Quiz Game Manual
+
 Introduction
 Hello! Welcome to the Science Quiz Game! This game will ask you 5 questions about science. Your job is to answer them correctly. Let's see how many you can get right!
 
